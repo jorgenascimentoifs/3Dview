@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "520644591117",
+    "firebase_url": "https://prototipoanalytics-default-rtdb.firebaseio.com/",
+    "project_id": "prototipoanalytics",
+    "storage_bucket": "prototipoanalytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520644591117:android:ff23a63e3d82ddee1b9f44",
+        "android_client_info": {
+          "package_name": "com.TresDView.Metalab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520644591117-jtd505fsf3fe1efe92680h6mrr8djdus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrKStjHZoloVaxFUOAUCqI1MQ9Dnf0AAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520644591117-jtd505fsf3fe1efe92680h6mrr8djdus.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "520644591117-10n1acc7ijrd6og28p4rm69agle2sd47.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jorge.AnalyticsTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
